@@ -10,3 +10,8 @@ Here are the links for the EasyEDA projects :)
   - https://oshwlab.com/tommybdog/esp32withmotorcontrol
   - https://oshwlab.com/tommybdog/espcontroller
  
+Youtube Link:
+  -https://youtu.be/7GVMjPdhd6k
+  
+Printables Link:
+  -https://www.printables.com/model/415497-3d-printed-rc-car
